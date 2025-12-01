@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Halaman Web Pantauan Perubahan Suhu Harian</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+ 
+  <h2>Kondisi Cuaca Daerah Tasikmalaya</h2>
+  <h4><!-- Google Maps — Tasikmalaya (embed sederhana) -->
+<iframe
+  width="100%"
+  height="450"
+  frameborder="0"
+  style="border:0"
+  src="https://www.google.com/maps?q=tasikmalaya+indonesia&z=13&output=embed"
+  allowfullscreen
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+    
+  </h4>
+  
+  <hr>
+  <h4>Lokasi</h4>
+  
+  <p>Daerah Ciherang,Tasikmalaya,Jawa Barat</p>
+  <table border="1">
+    <tr>
+      <th>No.</th>
+      <th>Hari</th>
+      <th>Tanggal</th>
+      <th>Suhu (°C)</th>
+      <th>Kelembapan (%)</th>
+    </tr>
+    <tr>
+      <td>1.</td>
+      <td>Senin</td>
+      <td>1/11/2025</td>
+      <td>29°C</td>
+      <td>75%</td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td>Selasa</td>
+      <td>2/11/2025</td>
+      <td>27.3°C</td>
+      <td>80%</td>
+    </tr>
+    <tr>
+      <td>3.</td>
+      <td>Rabu</td>
+      <td>3/11/2025</td>
+      <td>28.7°C</td>
+      <td>75%</td>
+    </tr>
+    <tr>
+      <td>4.</td>
+      <td>Kamis</td>
+      <td>4/11/2025</td>
+      <td>28.4°C</td>
+      <td>70%</td>
+    </tr>
+    <tr>
+      <td>5.</td>
+      <td>Jum'at</td>
+      <td>5/11/2025</td>
+      <td>27.8°C</td>
+      <td>80%</td>
+    </tr>
+    <tr>
+      <td>6.</td>
+      <td>Sabtu</td>
+      <td>6/11/2025</td>
+      <td>27.1°C</td>
+      <td>75%</td>
+    </tr>
+    <tr>
+      <td>7.</td>
+      <td>Minggu</td>
+      <td>7/11/2025</td>
+      <td>28.1°C</td>
+      <td>80%</td>
+    </tr>
+     
+    
+  </table>
+
+   
+ </table>
+ <hr>
+ <footer>
+   <p>Dibuat Oleh &copy; Saritirta hastuti</p>
+ </footer>
+</body>
+
+</html>
